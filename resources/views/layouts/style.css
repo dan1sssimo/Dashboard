@@ -1,0 +1,12 @@
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.navbar-main-dashboard {
+	background-color: aquamarine;
+}
+.nav-dashboard-container {
+	background-color: red;
+
+}

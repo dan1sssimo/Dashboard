@@ -1,0 +1,279 @@
+/*img {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*svg {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*h1, h2, h3, h4 {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*p {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*.navbar-main-dashboard {*/
+/*    !*background: #FFFFFF;*!*/
+/*    !*height: 87.60px;*!*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: center;*!*/
+/*}*/
+
+/*.nav-dashboard-container {*/
+/*    !*max-width: 1440px;*!*/
+/*    !*width: 100%;*!*/
+/*    !*padding: 0 50px;*!*/
+/*    !*margin: 0;*!*/
+/*}*/
+
+/*.nav-dashboard-content {*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: space-between;*!*/
+/*    !*align-items: center;*!*/
+/*    !*height: 87.60px;*!*/
+/*}*/
+
+/*.nav-dashboard-options {*/
+/*    !*display: flex;*!*/
+/*    !*align-items: center;*!*/
+/*}*/
+
+/*.nav-dashboard-logo {*/
+/*    !*display: flex;*!*/
+/*}*/
+
+/*.nav-d-logo {*/
+
+/*}*/
+
+/*.nav-d-logo img {*/
+/*    !*width: 166px;*!*/
+/*    !*height: 24px;*!*/
+/*}*/
+
+/*.nav-d-logo-img {*/
+/*    !*margin: 0 53.25px 0 0;*!*/
+/*}*/
+
+/*.nav-dashboard-title {*/
+
+/*}*/
+
+/*.nav-dashboard-title-text {*/
+/*    !*font-family: 'Proxima Nova', sans-serif;*!*/
+/*    !*font-style: normal;*!*/
+/*    !*font-weight: 700;*!*/
+/*    !*font-size: 14px;*!*/
+/*    !*color: #000000;*!*/
+
+/*}*/
+
+/*.nav-d-theme {*/
+/*    !*display: flex;*!*/
+/*    !*align-items: center;*!*/
+/*}*/
+
+/*.nav-item {*/
+/*    !*margin: 0 30px 0 60px;*!*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: center;*!*/
+/*    !*align-items: center;*!*/
+/*}*/
+
+/*!*.nav-d-text-theme {*!*/
+/*!*    font-family: 'Proxima Nova', sans-serif;*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 400;*!*/
+/*!*    font-size: 12px;*!*/
+/*!*    line-height: 15px;*!*/
+/*!*    !* identical to box height *!*!*/
+
+
+/*!*    color: #000000;*!*/
+/*!*}*!*/
+/*!*.nav-d-text-theme-w {*!*/
+/*!*    font-family: 'Proxima Nova', sans-serif;*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 700;*!*/
+/*!*    font-size: 12px;*!*/
+/*!*    line-height: 15px;*!*/
+/*!*}*!*/
+/*!*.nav-d-text-theme-d {*!*/
+/*!*    font-family: 'Proxima Nova', sans-serif;*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 400;*!*/
+/*!*    font-size: 12px;*!*/
+/*!*    line-height: 15px;*!*/
+/*!*}*!*/
+
+/*!*.nav-d-change-theme {*!*/
+/*!*    margin: 0 6.5px;*!*/
+/*!*}*!*/
+
+/*!*input[type="checkbox"] {*!*/
+/*!*    position: relative;*!*/
+/*!*    width: 26px;*!*/
+/*!*    height: 15px;*!*/
+/*!*    -webkit-appearance: none;*!*/
+/*!*    appearance: none;*!*/
+/*!*    background-color: #2D2D2D;*!*/
+/*!*    outline: none;*!*/
+/*!*    border-radius: 30px;*!*/
+/*!*    box-shadow: inset 0 0 5px rgb(0 0 0 / 20%);*!*/
+/*!*    transition: .5s;*!*/
+/*!*}*!*/
+
+/*!*input:checked[type="checkbox"] {*!*/
+/*!*    background-color: #c6c6c6;*!*/
+/*!*}*!*/
+
+/*!*input[type="checkbox"]:before {*!*/
+/*!*    content: '';*!*/
+/*!*    position: absolute;*!*/
+/*!*    width: 10.5px;*!*/
+/*!*    height: 10.5px;*!*/
+/*!*    border-radius: 50%;*!*/
+/*!*    top: 2px;*!*/
+/*!*    left: 2px;*!*/
+/*!*    background-color: #ffff;*!*/
+/*!*    transform: scale(1.1);*!*/
+/*!*    transition: .5s;*!*/
+/*!*}*!*/
+
+/*!*input:checked[type="checkbox"]:before {*!*/
+/*!*    left: 13px;*!*/
+/*!*    background-color: #2D2D2D;*!*/
+/*!*}*!*/
+
+/*!*.nav-avatar-image {*!*/
+/*!*    padding: 0;*!*/
+/*!*    margin: 0 14px 0 0;*!*/
+/*!*    width: 34px;*!*/
+/*!*    height: 34px;*!*/
+/*!*    background-color: #c6c6c6;*!*/
+/*!*    border-radius: 50%;*!*/
+/*!*}*!*/
+
+/*!*#navbarDropdown {*!*/
+/*!*    display: flex;*!*/
+/*!*    justify-content: center;*!*/
+/*!*    align-items: center;*!*/
+/*!*}*!*/
+
+/*!*.nav-name-text {*!*/
+/*!*    width: 100px;*!*/
+/*!*    overflow: hidden;*!*/
+/*!*    text-overflow: ellipsis;*!*/
+/*!*    white-space: nowrap;*!*/
+
+/*!*    font-family: 'Proxima Nova', sans-serif;*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 700;*!*/
+/*!*    font-size: 16px;*!*/
+/*!*    line-height: 19px;*!*/
+/*!*    color: #000000;*!*/
+/*!*    border-bottom: 1px solid #c9c9c9;*!*/
+/*!*    margin: 0 0 0 5px;*!*/
+/*!*}*!*/
+
+/*!*.nav-name-text-hi {*!*/
+/*!*    font-family: 'Proxima Nova', sans-serif;*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 400;*!*/
+/*!*    font-size: 16px;*!*/
+/*!*    line-height: 19px;*!*/
+/*!*    color: #000000;*!*/
+/*!*}*!*/
+
+/*!*.dropdown-toggle::after {*!*/
+/*!*    display: none;*!*/
+/*!*}*!*/
+
+/*!*.nav-profile-status {*!*/
+/*!*    position: relative;*!*/
+/*!*    left: 5px;*!*/
+/*!*    bottom: 10px;*!*/
+/*!*    content: '';*!*/
+/*!*    width: 6px;*!*/
+/*!*    height: 6px;*!*/
+/*!*    z-index: 3;*!*/
+/*!*    border-radius: 50%;*!*/
+/*!*    background: #E4572E;*!*/
+/*!*}*!*/
+
+/*!*.nav-menu-dots {*!*/
+/*!*    display: flex;*!*/
+/*!*    justify-content: center;*!*/
+/*!*    align-items: center;*!*/
+/*!*    border-left: 1px solid #E3E3E3;*!*/
+/*!*    height: 40px;*!*/
+/*!*    padding: 0 0 0 30px;*!*/
+/*!*}*!*/
+
+/*!*FOOTER DASHBOARD*!*/
+/*.footer-dashboard-main {*/
+/*    !*z-index: 5;*!*/
+/*    !*background: black;*!*/
+/*    !*!*position: absolute;*!*!*/
+/*    !*position: fixed;*!*/
+/*    !*left: 0;*!*/
+/*    !*bottom: 0;*!*/
+/*    !*width: 100%;*!*/
+/*    !*padding: 0 80px;*!*/
+/*}*/
+
+/*.footer-dashboard-container {*/
+/*    !*max-width: 1440px;*!*/
+/*    !*width: 100%;*!*/
+/*    !*padding: 0 50px;*!*/
+/*    !*margin: 0;*!*/
+/*}*/
+
+/*.footer-dashboard-content {*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: space-between;*!*/
+/*    !*align-items: center;*!*/
+/*    !*height: 53.22px;*!*/
+/*    !*background-color: black;*!*/
+/*    !*color: #ffff;*!*/
+/*}*/
+
+/*.f-d-content-1 {*/
+/*    !*font-family: 'Proxima Nova', sans-serif;*!*/
+/*    !*font-style: normal;*!*/
+/*    !*font-weight: 700;*!*/
+/*    !*font-size: 12px;*!*/
+/*    !*!* identical to box height *!*!*/
+/*    !*text-decoration-line: none;*!*/
+
+/*    !*color: #C3C3C3;*!*/
+/*}*/
+
+/*.f-d-content-2 {*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: space-between;*!*/
+/*    !*align-items: center;*!*/
+/*    !*width: 208px;*!*/
+/*    !*font-family: 'Proxima Nova', sans-serif;*!*/
+/*    !*font-style: normal;*!*/
+/*    !*font-weight: 700;*!*/
+/*    !*font-size: 12px;*!*/
+/*    !*!* identical to box height *!*!*/
+/*    !*text-decoration-line: none;*!*/
+
+
+/*    !*color: #C3C3C3;*!*/
+/*}*/
+/*!*@media (max-width: 991px) {*!*/
+/*!*    .nav-dashboard-container {*!*/
+/*!*        position: fixed;*!*/
+/*!*        top: 0;*!*/
+/*!*        right: 0;*!*/
+/*!*    }*!*/
+/*!*}*!*/
